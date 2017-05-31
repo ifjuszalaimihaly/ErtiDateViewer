@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ErtiDataViewer</string>
+    <string name="title_activity_trap_place_meps">Map</string>
+    <string name="title_activity_meteorological_places_maps">Map</string>
+    <string name="title_activity_select_trap_place">Map</string>
+    <string name="internetconnect">Szeretne csatlakozni az internetre?</string>
+    <string name="yes">Igen</string>
+    <string name="no">Nem</string>
+    <string name="internetfail">Nem sikerült az adatok letöltése, ellenőrizze az internet kapcsolatot!</string>
+    <string name="daytrap">Napi fogások lekérése</string>
+    <string name="monthtrap">Havi összegek lekérése</string>
+    <string name="chooseaggregationtype">Válassza ki az aggregáció típusát!</string>
+    <string name="trapfail">Nincsenek fogási adatok a kiválasztott csapdában</string>
+    <string name="lotspecies">Adjon meg háromnál kevesebb fajt!</string>
+    <string name="notspeciesname">Adjon meg a fajneveket!</string>
+    <string name="cantdrawchart">Nem rajzolható grafikon az adatokkal</string>
+    <string name="monthnumberfail">Adjon meg 1 és 12 közötti hónap értékeket, ne hagyjon dátummezőt üresen!</string>
+    <string name="trapPlacesButton">Rovarcsapdák a térképen</string>
+    <string name="meteorologicalPlasesButton">Meteorológiai mérőhelyek a térképen</string>
+    <string name="internetButton">Internet bekapcsolása</string>
+    <string name="choosenspecies">Kiválasztott fajok:</string>
+    <string name="viewText">Megjelenítés:</string>
+    <string name="onechart">Egy grafikonon</string>
+    <string name="morechart">Külön grafikonon</string>
+    <string name="beginDate">Kezdő dátum:</string>
+    <string name="endDate">Befejező dátum:</string>
+    <string name="limit">Minimális fogásszám:</string>
+    <string name="chartButton">Grafikon készítése</string>
+    <string name="year">Év</string>
+    <string name="month">Hónap</string>
+    <string name="na">Adathiányok</string>
+    <string name="lowerlimit">Limit alatti értékek: (limit=</string>
+    <string name="drill">Szeretne lefúrni?</string>
+    <string name="choosenspecies1">Kiválasztott faj: </string>
+    <string name="period">, időszak: </string>
+    <string name="period1">Időszak: </string>
+    <string name="species">Fajok: </string>
+    <string name="nodata"> - Nincs megjelenítendő adat</string>
+    <string name="chooselanguage">Válasszon nyelvet!</string>
+    <string name="city">Település: </string>
+    <string name="hu">hu</string>
+    <string name="de">de</string>
+    <string name="en">en</string>
+    <string name="hungarian">Magyar</string>
+    <string name="german">Deutsch</string>
+    <string name="english">English</string>
+</resources>

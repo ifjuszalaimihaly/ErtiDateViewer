@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\szakdolgozat-leadando\\ErtiDataViewer4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\uk.jpeg",
+        "source": "D:\\szakdolgozat-leadando\\ErtiDataViewer4\\app\\src\\main\\res\\mipmap\\uk.jpeg"
+    },
+    {
+        "merged": "D:\\szakdolgozat-leadando\\ErtiDataViewer4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\ic_launcher.jpg",
+        "source": "D:\\szakdolgozat-leadando\\ErtiDataViewer4\\app\\src\\main\\res\\mipmap\\ic_launcher.jpg"
+    },
+    {
+        "merged": "D:\\szakdolgozat-leadando\\ErtiDataViewer4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\hungary.jpeg",
+        "source": "D:\\szakdolgozat-leadando\\ErtiDataViewer4\\app\\src\\main\\res\\mipmap\\hungary.jpeg"
+    },
+    {
+        "merged": "D:\\szakdolgozat-leadando\\ErtiDataViewer4\\app\\build\\intermediates\\res\\merged\\debug\\mipmap\\germany.jpeg",
+        "source": "D:\\szakdolgozat-leadando\\ErtiDataViewer4\\app\\src\\main\\res\\mipmap\\germany.jpeg"
+    }
+]

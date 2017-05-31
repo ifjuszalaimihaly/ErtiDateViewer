@@ -1,0 +1,38 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#149419</item>
+        <item name="colorPrimaryDark">#383509</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+        <item name="android:colorBackground">#d4f586</item>
+        <item name="android:textColor">@color/colorPrimaryDark</item>
+        <!--<item name="android:background">#fafaaa</item>-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+       <!-- <item name="android:buttonStyle">@style/mybuttonstyle</item>--> -->
+    </style>
+   <!-- <style name="AppTheme.PopupTheme">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowCloseOnTouchOutside">true</item>
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:foreground">@color/colorAccent</item>
+
+    </style> -->
+    <style name="mybuttonstyle" parent="android:Widget.Button">
+        <!--<item name="android:radius">100dp</item> -->
+        <item name="android:textColor">#144119</item>
+        <item name="android:background">#d6d688</item>
+        <!--<item name="android:layout_marginBottom">5dp</item>-->
+    </style>
+    <style name="mydialogstyle" parent="@android:style/Theme.Dialog">
+        <item name="android:bottomBright">@color/colorAccent</item>
+        <item name="android:bottomDark">@color/colorAccent</item>
+        <item name="android:bottomMedium">@color/colorAccent</item>
+        <item name="android:centerBright">@color/colorAccent</item>
+        <item name="android:centerDark">@color/colorAccent</item>
+        <item name="android:centerMedium">@color/colorPrimary</item>
+        <item name="android:fullBright">@color/colorPrimary</item>
+        <item name="android:fullDark">@color/colorPrimaryDark</item>
+        <item name="android:topBright">@color/colorPrimary</item>
+        <item name="android:topDark">@color/colorPrimary</item>
+    </style>
+</resources>

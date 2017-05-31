@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ErtiDataViewer</string>
+    <string name="title_activity_trap_place_meps">Map</string>
+    <string name="title_activity_meteorological_places_maps">Map</string>
+    <string name="title_activity_select_trap_place">Map</string>
+    <string name="internetconnect">Möchten Sie mit dem Internet verbinden?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="internetfail">Es war keine Daten erfolgreich heruntergeladen, überprüfen Sie die Internetverbindung!</string>
+    <string name="daytrap">Tägliche Fangen abfragen</string>
+    <string name="monthtrap">Summe der monatlichen Fangen abfragen</string>
+    <string name="chooseaggregationtype">Wählen Sie den Typ der Anhängung!</string>
+    <string name="trapfail">Es gibt keine Fangendaten in diesem Fall</string>
+    <string name="lotspecies">Geben Sie weniger als drei Spezies</string>
+    <string name="notspeciesname">Geben Sie Speziesnamen</string>
+    <string name="cantdrawchart">Es ist nicht möglich mit diesen Daten Graph zu zeichnen</string>
+    <string name="monthnumberfail">Geben Sie Monatnummer zwischen 1 und 12, lassen Sie keinen Datenfeld leer!</string>
+    <string name="trapPlacesButton">Insektenfallen auf der Landkarte</string>
+    <string name="meteorologicalPlasesButton">Meteorologische Sensorplätze auf der Landkarte</string>
+    <string name="internetButton">Internet einschalten</string>
+    <string name="choosenspecies">Ausgewählte Spezies:</string>
+    <string name="viewText">Anzeigemodus :</string>
+    <string name="onechart">In einem Graph</string>
+    <string name="morechart">In mehreren Graphen</string>
+    <string name="beginDate">Startdatum:</string>
+    <string name="endDate">Enddatum:</string>
+    <string name="limit">Mindestanzahl der Fangzahlen:</string>
+    <string name="chartButton">Graph machen</string>
+    <string name="year">Jahr</string>
+    <string name="month">Monat</string>
+    <string name="na">Datenlücken</string>
+    <string name="lowerlimit">Werte unter dem Grenzwert: (Grenzwert=</string>
+    <string name="drill">Möchten Sie aufreißen?</string>
+    <string name="choosenspecies1">Ausgewählte Spezies:</string>
+    <string name="period">, Zeitraum: </string>
+    <string name="period1">Zeitraum: </string>
+    <string name="species">Spezies: </string>
+    <string name="nodata"> - Es gibt keine Daten anzuzeigen</string>
+    <string name="chooselanguage">Wählen Sie Sprache!</string>
+    <string name="city">Stadt: </string>
+    <string name="hu">hu</string>
+    <string name="de">de</string>
+    <string name="en">en</string>
+    <string name="hungarian">Magyar</string>
+    <string name="german">Deutsch</string>
+    <string name="english">English</string>
+</resources>

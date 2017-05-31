@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_centerVertical="true"
+    android:background="@color/colorAccent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:id="@+id/viewText"
+        android:text="@string/viewText"/>
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:id="@+id/radioGroup"
+        android:layout_below="@+id/viewText">
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/radioButton"
+        android:text="@string/onechart"
+        android:textSize="20dp"
+        />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/radioButton1"
+        android:textSize="20dp"
+        android:text="@string/morechart" />
+    </RadioGroup>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:text="@string/beginDate"
+        android:layout_below="@id/radioGroup"
+        android:id="@+id/beginDateText"/>
+    <DatePicker
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/datePickerBegin"
+        android:layout_below="@+id/beginDateText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_below="@+id/datePickerBegin"
+        android:id="@+id/endDateText"
+        android:text="@string/endDate"/>
+    <DatePicker
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/datePickerEnd"
+        android:layout_below="@+id/endDateText"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/catches"
+        android:layout_below="@+id/datePickerEnd"
+        android:textSize="20dp"
+        android:text="@string/limit"/>
+    <NumberPicker
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/numberPicker"
+        android:layout_below="@id/catches"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/chartButton"
+        android:id="@+id/chartButton"
+        android:background="@color/colorPrimary"
+        android:layout_alignBottom="@+id/numberPicker"
+        android:layout_toRightOf="@+id/catches"
+        android:layout_toEndOf="@+id/catches"
+        android:padding="20dp"
+        android:layout_marginBottom="57dp" />
+
+
+</RelativeLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/language"
+        android:title="Nyelv, Language, Sprache">
+        <menu>
+            <item android:title="Magyar"
+                android:icon="@mipmap/hungary"
+                android:id="@+id/hungary"/>
+            <item android:title="English"
+                android:icon="@mipmap/uk"
+                android:id="@+id/uk"/>
+            <item android:title="Deutch"
+                android:icon="@mipmap/germany"
+                android:id="@+id/germany"/>
+        </menu>
+    </item>
+</menu>

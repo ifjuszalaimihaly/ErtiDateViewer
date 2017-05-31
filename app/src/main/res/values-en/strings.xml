@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ErtiDataViewer</string>
+    <string name="title_activity_trap_place_meps">Map</string>
+    <string name="title_activity_meteorological_places_maps">Map</string>
+    <string name="title_activity_select_trap_place">Map</string>
+    <string name="internetconnect">Would you like connect to the internet?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="internetfail">Unable to download the data, check your Internet connection!</string>
+    <string name="daytrap">Get daily cathes</string>
+    <string name="monthtrap">Get the sums of monthly cathes</string>
+    <string name="chooseaggregationtype">Choose the type of aggregation!</string>
+    <string name="trapfail">There is no data of cathes data in the choosen trap</string>
+    <string name="lotspecies">Give fewer than three names of species!</string>
+    <string name="notspeciesname">Give the names of species!</string>
+    <string name="cantdrawchart">There is no drawable chart by the given data</string>
+    <string name="monthnumberfail">Give the month between 1 and 12, please do not leave fields empty</string>
+    <string name="trapPlacesButton">Insect traps on the map</string>
+    <string name="meteorologicalPlasesButton">Meterological sensorplaces on the map</string>
+    <string name="internetButton">Switch on the internet</string>
+    <string name="choosenspecies">Choosen species:</string>
+    <string name="viewText">Type of view:</string>
+    <string name="onechart">In the same chart</string>
+    <string name="morechart">In different chats</string>
+    <string name="beginDate">Beginning date:</string>
+    <string name="endDate">Endding date:</string>
+    <string name="limit">Minimum limit of cathes:</string>
+    <string name="chartButton">Draw chart</string>
+    <string name="year">Year</string>
+    <string name="month">Month</string>
+    <string name="na">NA values</string>
+    <string name="lowerlimit">Values below limit: (limit=</string>
+    <string name="drill">Would you like to drill down?</string>
+    <string name="choosenspecies1">Chososen species: </string>
+    <string name="period">, period: </string>
+    <string name="period1">Period: </string>
+    <string name="species">Species: </string>
+    <string name="nodata"> - There is no drawable data</string>
+    <string name="chooselanguage">Choose language!</string>
+    <string name="city">City: </string>
+    <string name="hu">hu</string>
+    <string name="de">de</string>
+    <string name="en">en</string>
+    <string name="hungarian">Magyar</string>
+    <string name="german">Deutsch</string>
+    <string name="english">English</string>
+</resources>
